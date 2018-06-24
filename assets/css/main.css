@@ -1,12 +1,25 @@
-@charset "UTF-8";
+/*@charset "UTF-8";*/
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+/*@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 
-/*
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+
+
 */
+@font-face {
+font-family: "Bitter-BoldItalic"; 
+   
+src: url("../assets/fonts/Bitter-BoldItalic/Bitter-BoldItalic.eot"); 
+
+src: url("../assets/fonts/Bitter-BoldItalic/Bitter-BoldItalic.eot?#iefix") format("embedded-opentype"),
+
+url("../assets/fonts/Bitter-BoldItalic/Bitter-BoldItalic.woff") format("woff"), 
+
+url("../assets/fonts/Bitter-BoldItalic/Bitter-BoldItalic.ttf") format("truetype"); 
+
+font-style: normal; 
+
+font-weight: normal;
+} 
 
 /* Reset */
 
